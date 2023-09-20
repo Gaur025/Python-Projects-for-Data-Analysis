@@ -1,4 +1,3 @@
-!https://img.shields.io/badge/author-Gaurang_Dwivedi-green
 # Python-Projects-for-Data-Analysis
 
 # H1 Data Analysis with Python on Netflix Dataset
