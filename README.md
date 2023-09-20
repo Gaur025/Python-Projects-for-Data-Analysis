@@ -1,4 +1,4 @@
-https://img.shields.io/badge/author-Gaurang_Dwivedi-green
+(https://img.shields.io/badge/author-Gaurang_Dwivedi-green)
 # Python-Projects-for-Data-Analysis
 
 # H1 Data Analysis with Python on Netflix Dataset
@@ -33,13 +33,13 @@ This Telecom's Churn Dataset comprises meticulously cleaned customer activity da
 
 In this project, we embark on an exploration and in-depth analysis of this dataset to uncover the pivotal factors that contribute to customer churn. Our aim is to formulate effective strategies and recommendations to enhance customer retention.
 
-*Significance of Customer Churn:
+*Significance of Customer Churn:*
 
-Customer churn is a pervasive challenge across industries, and it holds paramount importance in the Telecom sector. The repercussions of high customer churn rates can be financially significant, particularly in the competitive telecommunications landscape.
+*Customer churn is a pervasive challenge across industries, and it holds paramount importance in the Telecom sector. The repercussions of high customer churn rates can be financially significant, particularly in the competitive telecommunications landscape.*
 
-The telecom industry grapples with an annual churn rate averaging between 15-25%. Notably, acquiring new customers incurs significantly higher costs compared to retaining existing ones. This underscores the elevated importance of customer retention relative to customer acquisition.*
+*The telecom industry grapples with an annual churn rate averaging between 15-25%. Notably, acquiring new customers incurs significantly higher costs compared to retaining existing ones. This underscores the elevated importance of customer retention relative to customer acquisition.*
 
-*Project Goals:**
+**Project Goals:**
 
 Our primary objective is to gain a profound understanding of the factors that drive customer churn. By doing so, we aim to facilitate telecom operators in predicting which customers are most susceptible to churn. This predictive capability empowers telecom companies to take proactive measures to retain their most valuable customers.
 
